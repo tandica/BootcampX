@@ -1,1 +1,3 @@
 # BootcampX
+
+Practicing SQL

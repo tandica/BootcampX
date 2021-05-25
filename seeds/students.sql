@@ -8,7 +8,6 @@ INSERT INTO students (
     end_date,
     cohort_id
   )
-
 VALUES (
     1,
     'Armand Hilll',
@@ -19,7 +18,6 @@ VALUES (
     '2018-04-20T07:00:00.000Z',
     1
   );
-  
 INSERT INTO students (
     id,
     name,
